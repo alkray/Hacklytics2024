@@ -52,4 +52,12 @@ To get started with the project, follow these steps:
 
 We welcome contributions from the community! Whether it's bug fixes, feature enhancements, or new ideas, we appreciate any contributions that help improve the platform.
 
+<img width="1441" alt="Screenshot 2024-02-11 at 8 48 54 AM" src="https://github.com/alkray/Hacklytics2024/assets/42243720/0bd2f218-870d-4948-a987-1b447ab87edd">
+<img width="1368" alt="Screenshot 2024-02-11 at 8 49 37 AM" src="https://github.com/alkray/Hacklytics2024/assets/42243720/c2c9ae61-ed47-4ae9-9bb9-afaca6850d7e">
+<img width="1438" alt="Screenshot 2024-02-11 at 8 50 14 AM" src="https://github.com/alkray/Hacklytics2024/assets/42243720/244869d8-82b6-47c2-a74f-e0b5533710d0">
+
+
+
+
+
 
